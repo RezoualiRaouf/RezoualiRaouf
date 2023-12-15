@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RezoualiRaouf
 - 👀 I’m interested in c and python right now!!
-- 🌱 I’m currently learning python and frontend dev
--[linkedin](https://www.linkedin.com/in/raoufrezouali/) 
+- 🌱 I’m currently learning python and frontend dev 
+- My [linkedin](https://www.linkedin.com/in/raoufrezouali/) 
