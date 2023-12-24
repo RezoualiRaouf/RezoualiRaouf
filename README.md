@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS student
 ----------
 
-I am currently in second year in uni and started at first learning c and problem solving using it and then a moved to learning python and making with it some entry level projects such as a text editor ,currency converter ... ,I started also a frontend diploma that ends in me mastering react and some data structures.
+I am currently in second year in uni, I started first learning c and problem solving using it and then i moved to learning python and making with it some entry level projects such as a text editor ,currency converter ... ,I started also a frontend diploma that ends in me mastering react and some data structures.
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [raoufrezouali7@gmail.com](mailto:raoufrezouali7@gmail.com)
