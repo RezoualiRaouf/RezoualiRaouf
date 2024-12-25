@@ -8,8 +8,8 @@ I am currently in second year in uni, I started first learning c and problem sol
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [raoufrezouali7@gmail.com](mailto:raoufrezouali7@gmail.com)
-* 🚀  I'm currently working on [Python GUI Weather app](https://github.com/RezoualiRaouf/python-projects/tree/main/Weather_app)
-* 🧠  I'm learning Python , frontend dev
+* 🚀  I'm currently working on a wordpress website
+* 🧠  I'm learning css ,js, frontend dev(React).
 * ⚡  If there is any internship fill free to contact me in my Email or Linkedin
 
 ### Skills
