@@ -59,6 +59,6 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
 ---
+
 ![Snake animation](https://github.com/RezoualiRaouf/RezoualiRaouf/blob/output/github-contribution-grid-snake.svg)
