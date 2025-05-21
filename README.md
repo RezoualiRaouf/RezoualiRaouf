@@ -1,37 +1,82 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raouf Rezouali
-======================================================================================================================================
+# Raouf Rezouali <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">
 
-CS student
-----------
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RezoualiRaouf.RezoualiRaouf)](https://github.com/RezoualiRaouf)
+[![GitHub followers](https://img.shields.io/github/followers/RezoualiRaouf.svg?style=social&label=Follow)](https://github.com/RezoualiRaouf?tab=followers)
+[![wakatime](https://wakatime.com/badge/user/018d1e8c-8ed5-4e55-893f-9c090722a4e7.svg)](https://wakatime.com/@018d1e8c-8ed5-4e55-893f-9c090722a4e7)
 
-I am currently in second year in uni, I started first learning c and problem solving using it and then i moved to learning python and making with it some entry level projects such as a text editor ,currency converter ... ,I started also a frontend diploma that ends in me mastering react and some data structures.
+## 💫 About Me
 
-* 🌍  I'm based in Algeria
-* ✉️  You can contact me at [raoufrezouali7@gmail.com](mailto:raoufrezouali7@gmail.com)
-* 🚀  I'm currently working on a wordpress website
-* 🧠  I'm learning css ,js, frontend dev(React).
-* ⚡  If there is any internship fill free to contact me in my Email or Linkedin
+**Computer Science student seeking internship opportunities**
 
-### Skills
+- 🌍 Based in Algeria
+- 🎓 Third-year Computer Science student
+- 💼 **Actively seeking internship opportunities**
+- 💻 Working on a WordPress Plugin (WP-email-restriction)
+- 🔍 Interested in IT and software development
 
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+## 🛠️ Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vim,neovim,js,html,css,bash,c,md,mysqlphppowershell,py,sqlite,wordpress,notion,vscode,vscodium&perline=13" />
+  </a>
 </p>
 
+## 📊 GitHub Stats
 
-### Socials
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RezoualiRaouf&show_icons=true&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true" alt="Raouf's GitHub stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RezoualiRaouf&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Raouf's streak" height="170"/>
+</div>
 
-<p align="left"> <a href="https://discord.com/users/raou_f" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/RezoualiRaouf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/raoufrezouali" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/RRezouali" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezoualiRaouf&layout=compact&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true" alt="Raouf's top languages"/>
+</div>
 
-### Badges
+## 💻 Featured Projects
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <a href="https://github.com/RezoualiRaouf/printf">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RezoualiRaouf&repo=printf&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true" alt="printf repository" width="45%"/>
+  </a>
+  <a href="https://github.com/RezoualiRaouf/python-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RezoualiRaouf&repo=python-projects&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true" alt="python-projects repository" width="45%"/>
+  </a>
+</div>
 
-<a href="http://www.github.com/RezoualiRaouf"><img src="https://github-readme-stats.vercel.app/api?username=RezoualiRaouf&show_icons=true&hide=stars,contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="RezoualiRaouf's GitHub stats" /></a>
+## 📚 Education & Certifications
 
-<a href="http://www.github.com/RezoualiRaouf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RezoualiRaouf&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- 🎓 Third-year Computer Science student
+- 📜 Intern at Univ Bouira Networks and Systems Department (In Progress)
 
-<b>Top Repositories</b>
+## 📫 Connect With Me
 
-<div width="100%" align="center"><a href="https://github.com/RezoualiRaouf/printf" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RezoualiRaouf&repo=printf&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/RezoualiRaouf/python-projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RezoualiRaouf&repo=python-projects&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="left">
+  <a href="https://www.linkedin.com/in/raoufrezouali" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:raouf.rezouali@univ-bouira.dz" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://twitter.com/RRezouali" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://discord.com/users/raou_f" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RezoualiRaouf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RezoualiRaouf">
+    <img src="https://img.shields.io/github/last-commit/RezoualiRaouf/RezoualiRaouf?style=flat-square&logo=github&logoColor=white" alt="GitHub last commit"/>
+  </a>
+</p>
+
+<div align="center">
+  <b>🔍 Looking for internship opportunities - Feel free to reach out! 🚀</b>
+</div>
