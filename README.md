@@ -1,6 +1,5 @@
 # Hi i am Raouf Rezouali 
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RezoualiRaouf.RezoualiRaouf)](https://github.com/RezoualiRaouf)
 <p>
   <img src="https://komarev.com/ghpvc/?username=RezoualiRaouf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
   <a href="https://github.com/RezoualiRaouf">
@@ -12,7 +11,7 @@
 
 - 🌍 Based in Algeria
 - 🎓 Third-year Computer Science student
-- 💼 **Actively seeking internship opportunities**
+- 💼 **Actively seeking internship opportunities in IT**
 - 💻 Working on a WordPress Plugin (WP-email-restriction)
 - 🔍 Interested in IT and software development
 
@@ -32,10 +31,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezoualiRaouf&layout=compact&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true" alt="Raouf's top languages"/>
-</div>
-
-<div align="center">
-  <b>🔍 Looking for internship opportunities - Feel free to reach out! 🚀</b>
 </div>
 
 ## 💻 Featured Projects
