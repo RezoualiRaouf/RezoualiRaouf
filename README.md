@@ -1,17 +1,13 @@
 # Hi i am Raouf Rezouali 
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RezoualiRaouf.RezoualiRaouf)](https://github.com/RezoualiRaouf)
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=RezoualiRaouf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-<p align="center">
   <a href="https://github.com/RezoualiRaouf">
     <img src="https://img.shields.io/github/last-commit/RezoualiRaouf/RezoualiRaouf?style=flat-square&logo=github&logoColor=white" alt="GitHub last commit"/>
   </a>
 </p>
-
 ## 💫 About Me
-
 **Computer Science student seeking internship opportunities**
 
 - 🌍 Based in Algeria
@@ -23,7 +19,7 @@
 ## 🛠️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vim,neovim,js,html,css,bash,c,mysql,php,powershell,py,sqlite,wordpress,notion,vscode&preline=9" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vim,neovim,js,html,css,bash,c,mysql,php,powershell,py,sqlite,wordpress,notion,vscode&preline=5" />
   </a>
 </p>
 
@@ -60,7 +56,7 @@
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/raoufrezouali" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
