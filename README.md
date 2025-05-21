@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/last-commit/RezoualiRaouf/RezoualiRaouf?style=flat-square&logo=github&logoColor=white" alt="GitHub last commit"/>
   </a>
 </p>
-## 💫 About Me
+💫 About Me
 **Computer Science student seeking internship opportunities**
 
 - 🌍 Based in Algeria
