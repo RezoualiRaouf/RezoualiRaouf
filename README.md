@@ -41,10 +41,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RezoualiRaouf&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Raouf's streak" height="170"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezoualiRaouf&layout=compact&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true" alt="Raouf's top languages"/>
-</div>
-
 ## 💻 Featured Projects
 
 <div align="center">
