@@ -1,4 +1,4 @@
-# Hi i am Raouf Rezouali 
+# Hi, I am Raouf Rezouali 👋
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=RezoualiRaouf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -6,20 +6,32 @@
     <img src="https://img.shields.io/github/last-commit/RezoualiRaouf/RezoualiRaouf?style=flat-square&logo=github&logoColor=white" alt="GitHub last commit"/>
   </a>
 </p>
-💫 About Me
-**Computer Science student seeking internship opportunities**
+
+## 💫 About Me
+
+**Passionate Computer Science graduate actively seeking internship opportunities**
 
 - 🌍 Based in Algeria
-- 🎓 Third-year Computer Science student
-- 💼 **Actively seeking internship opportunities in IT**
-- 💻 Working on a WordPress Plugin (WP-email-restriction)
-- 🔍 Interested in IT and software development
+- 🎓 Computer Science graduate from University of Bouira
+- 💼 **Actively seeking internship opportunities in Software Development & IT**
+- 💻 Currently developing a WordPress Plugin (WP-email-restriction)
+- 🔍 Passionate about software development, web technologies, and system administration
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vim,neovim,js,html,css,bash,c,mysql,php,powershell,py,sqlite,wordpress,notion,vscode&preline=5" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,py,js,php,bash,powershell" />
+</p>
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,wordpress" />
+</p>
+
+### 🔧 Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vim,neovim,mysql,sqlite,vscode,notion" />
 </p>
 
 ## 📊 GitHub Stats
@@ -44,21 +56,33 @@
   </a>
 </div>
 
-## 📚 Education & Certifications
+### 🚀 Current Projects
+- **WP-Email-Restriction Plugin**: WordPress plugin for email domain restrictions
+- **Univ Bouira Progress Website**: Web application using Progree's API to fetch and display university data on a website
 
-- 🎓 Third-year Computer Science student (Bachelor's degree)
-- 📜 Intern at Univ Bouira Networks and Systems Department (In Progress)
+## 📚 Education & Experience
 
-## 📫 Connect With Me
+- 🎓 **Bachelor's in Computer Science** - University of Bouira (Completed)
+- 💼 **Network & Systems Intern** - Univ Bouira Networks and Systems Department (Current)
+
+## 🎯 Current Goals
+
+- 🔍 Seeking software development internship opportunities
+- 📈 Expanding knowledge in network administration, backend development, simple frontend, and scripting
+
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raoufrezouali" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:raouf.rezouali@univ-bouira.dz" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 ---
 
+<div align="center">
+  
 ![Snake animation](https://github.com/RezoualiRaouf/RezoualiRaouf/blob/output/github-contribution-grid-snake.svg)
