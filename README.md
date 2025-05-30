@@ -31,7 +31,7 @@
 
 ### 🔧 Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vim,neovim,mysql,sqlite,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vim,neovim,mysql,sqlite,vscode" />
 </p>
 
 ## 📊 GitHub Stats
@@ -39,17 +39,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RezoualiRaouf&show_icons=true&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true" alt="Raouf's GitHub stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RezoualiRaouf&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Raouf's streak" height="170"/>
-</div>
-
-## 💻 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/RezoualiRaouf/printf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RezoualiRaouf&repo=printf&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true" alt="printf repository" width="45%"/>
-  </a>
-  <a href="https://github.com/RezoualiRaouf/python-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RezoualiRaouf&repo=python-projects&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true" alt="python-projects repository" width="45%"/>
-  </a>
 </div>
 
 ### 🚀 Current Projects
