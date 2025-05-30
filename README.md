@@ -58,7 +58,7 @@
 
 ### 🚀 Current Projects
 - **WP-Email-Restriction Plugin**: WordPress plugin for email domain restrictions
-- **Univ Bouira Progress Website**: Web application using Progree's API to fetch and display university data on a website
+- **Univ Bouira Progress Website**: (not for now)
 
 ## 📚 Education & Experience
 
