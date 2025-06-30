@@ -14,7 +14,6 @@
 - 🌍 Based in Algeria
 - 🎓 Computer Science graduate from University of Bouira
 - 💼 **Actively seeking internship opportunities in Software Development & IT**
-- 💻 Currently developing a WordPress Plugin (WP-email-restriction)
 - 🔍 Passionate about software development, web technologies, and system administration
 
 ## 🛠️ Technical Skills
@@ -42,7 +41,7 @@
 </div>
 
 ### 🚀 Current Projects
-- **WP-Email-Restriction Plugin**: WordPress plugin for email domain restrictions
+- **WP-Email-Restriction Plugin**: Done!!
 - **Univ Bouira Progress Website**: (not for now)
 
 ## 📚 Education & Experience
