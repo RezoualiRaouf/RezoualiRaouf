@@ -20,7 +20,7 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,js,php,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=c,py,php,js,bash,powershell" />
 </p>
 
 ### 🌐 Web Development
