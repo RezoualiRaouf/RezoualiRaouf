@@ -25,7 +25,7 @@
 
 ### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
 </p>
 
 ### 🔧 Tools & Technologies
