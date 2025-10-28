@@ -20,7 +20,7 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,php,js,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=c,py,js,bash" />
 </p>
 
 ### 🌐 Web Development
@@ -30,12 +30,8 @@
 
 ### 🔧 Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vim,neovim,mysql,sqlite,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,arch,neovim,mysql,vscode" />
 </p>
-
-### 🚀 Current Projects
-- **WP-Email-Restriction Plugin**: Done!!
-- **Univ Bouira Progress Website**: (not for now)
 
 ## 📚 Education & Experience
 
